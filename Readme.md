@@ -1,2 +1,3 @@
-*this is some of projects to improve Your solving problems skill in python*
-#"*I hope that helped you Thanks*"
+# "**this is some of projects to improve Your solving problems skill in python**"
+
+# "*I hope that helped you Thanks*"
